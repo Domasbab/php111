@@ -1,8 +1,9 @@
 <?php
 echo '<pre>';
 
-require __DIR__ . '/MarsoPalydovas.php';
-require __DIR__ . '/Tenisininkas.php';
+// require __DIR__ . '/MarsoPalydovas.php';
+// require __DIR__ . '/Tenisininkas.php';
+
 
 // $p1 = Kosmosas\MarsoPalydovas::create();
 // $p2 = Kosmosas\MarsoPalydovas::create();
@@ -19,9 +20,9 @@ $z2 = new Tenisininkas('Petras');
 
 Tenisininkas::zaidimoPradzia();
 
-$z1->perduotiKamuoliuka();
-$z2->perduotiKamuoliuka();
-$z1->perduotiKamuoliuka();
-$z2->perduotiKamuoliuka();
-$z1->perduotiKamuoliuka();
-$z2->perduotiKamuoliuka();
+// $z1->perduotiKamuoliuka();
+// $z2->perduotiKamuoliuka();
+// $z1->perduotiKamuoliuka();
+// $z2->perduotiKamuoliuka();
+// $z1->perduotiKamuoliuka();
+// $z2->perduotiKamuoliuka();
