@@ -1,0 +1,23 @@
+{
+  "name": "php111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domasbab/php111.git"
+  },
+  "keywords": [],
+  "author": "Domas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Domasbab/php111/issues"
+  },
+  "homepage": "https://github.com/Domasbab/php111#readme",
+  "dependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}

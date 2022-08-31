@@ -9,5 +9,5 @@ echo '<bre>';
   } else {
     print 'Sveiki';
   }
-
-echo $d;
+  
+  echo $d;
